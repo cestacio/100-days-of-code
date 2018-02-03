@@ -9,3 +9,4 @@ Worked on a memory game using HTML, CSS, and JavaScript. Was able to shuffle arr
 *update* Figured out how to hide/show images using toggleClass.
 
 ### R1D2
+Continued working on the memory game. Created a landing page with a start button that lead to the gameboard. Figured out the logic to display only two images at a time. After clicking two cards, checked if they aren't a match, left both visible for 1 second before flipping back. 
