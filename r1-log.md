@@ -16,3 +16,9 @@ Worked on the memory game. Added unique IDs to cards. Edited checkWin() function
 
 ### R1D6
 Organized file folders for the memory game repo on GitHub. Still struggling with two last requirements of the memory game: 1) disabling a click on a card that's already been clicked without locking the card afterward and 2) storing the best score using local storage and displaying it on the screen. Have been frustrated with these last two tasks over the past two days. Took a break from the memory game to work on coding challenges. Practiced problems using reduce and high order functions. 
+
+### R1D7
+Finally finished the memory game! After submitting the game, I checked the recently updated requirements only to find that it needed to be done in vanilla JavaScript. NO jQuery. Created a separate file for vanilla JS and started working on transferring the jQuery code to pure JS. Took a break from the memory game to work on Repl.it classroom problems. 
+
+### R1D7
+Worked on coding challenges and practicing simple JavaScript algorithms. Trying to improve my problem solving skills. 
