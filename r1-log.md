@@ -20,5 +20,8 @@ Organized file folders for the memory game repo on GitHub. Still struggling with
 ### R1D7
 Finally finished the memory game! After submitting the game, I checked the recently updated requirements only to find that it needed to be done in vanilla JavaScript. NO jQuery. Created a separate file for vanilla JS and started working on transferring the jQuery code to pure JS. Took a break from the memory game to work on Repl.it classroom problems. 
 
-### R1D7
+### R1D8
 Worked on coding challenges and practicing simple JavaScript algorithms. Trying to improve my problem solving skills. 
+
+### R1D9
+Worked on coding challenges and practiced whiteboarding. Learned how to diagram each step of the problem. Solified my understanding of the .reduce() array method. 
