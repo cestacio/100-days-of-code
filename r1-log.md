@@ -25,3 +25,6 @@ Worked on coding challenges and practicing simple JavaScript algorithms. Trying 
 
 ### R1D9
 Worked on coding challenges and practiced whiteboarding. Learned how to diagram each step of the problem. Solified my understanding of the .reduce() array method. 
+
+### R1D10-11
+Worked on coding challenges in the repl.it classroom. Revisted older problems to solidify understanding of simple javascript algorithms. 
