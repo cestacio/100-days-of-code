@@ -28,3 +28,6 @@ Worked on coding challenges and practiced whiteboarding. Learned how to diagram 
 
 ### R1D10-11
 Worked on coding challenges in the repl.it classroom. Revisted older problems to solidify understanding of simple javascript algorithms. 
+
+### R1D12
+Reviewed anonymous functions, IIFE's, and hoisting. 
