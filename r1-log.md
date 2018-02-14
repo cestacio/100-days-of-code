@@ -31,3 +31,6 @@ Worked on coding challenges in the repl.it classroom. Revisted older problems to
 
 ### R1D12
 Reviewed anonymous functions, IIFE's, and hoisting. 
+
+### R1D13
+Solved 4 problems in the repl.it classroom. Problems include: rotating a matrix clockwise and counterclockwise, zipping and unzipping values in nested arrays. Reviewed DOM
