@@ -34,3 +34,12 @@ Reviewed anonymous functions, IIFE's, and hoisting.
 
 ### R1D13
 Solved 4 problems in the repl.it classroom. Problems include: rotating a matrix clockwise and counterclockwise, zipping and unzipping values in nested arrays. Reviewed DOM
+
+### R1D14 
+Solved more repl.it problems. Got more practice using reduce. Switched text editors from Sublime to VS Code. 
+
+### R1D15 
+Completed javascript memory game to include local storage. 
+
+### R1D16
+tbd
