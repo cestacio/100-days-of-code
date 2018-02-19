@@ -41,5 +41,6 @@ Solved more repl.it problems. Got more practice using reduce. Switched text edit
 ### R1D15 
 Completed javascript memory game to include local storage. 
 
-### R1D16
-tbd
+### R1D16-18
+Reviewed javascript array iterators. Cleaned up portfolio site. Familiarize myself with VS Code.  
+
