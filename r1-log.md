@@ -44,3 +44,5 @@ Completed javascript memory game to include local storage.
 ### R1D16-18
 Reviewed javascript array iterators. Cleaned up portfolio site. Familiarize myself with VS Code.  
 
+### R1D19
+First day at the immersive program! Learned about Big O Notation- time and space complexity and readability. 
